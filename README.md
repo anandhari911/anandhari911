@@ -47,6 +47,8 @@ Collected and cleaned the dataset, performed exploratory data analysis, preproce
 ### Conclusion
 
 The Random Forest model provided the best results for predicting customer churn. The project demonstrates how machine learning can help businesses identify at-risk customers and support data-driven retention strategies.
+### Notebook
+Link: "C:\Users\Anand\Downloads\churn_path.ipynb"
 
 ---
 
