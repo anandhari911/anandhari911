@@ -144,10 +144,15 @@ The dashboard helped visualize sales performance and identify top-performing pro
 
 ---
 
-## 📫 Connect with Me
 
-* LinkedIn: https://www.linkedin.com/in/anand-harikumar-79a3b9238
-* Email: [anandharikumar10@gmail.com](mailto:anandharikumar10@gmail.com)
+*### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20Harikumar-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/anand-harikumar-79a3b9238)
+
+[![Gmail](https://img.shields.io/badge/Gmail-anandharikumar10%40gmail.com-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anandharikumar10@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-anandharikumar-black?style=for-the-badge\&logo=github)](https://github.com/anandhari911)
+
 
 ---
 
